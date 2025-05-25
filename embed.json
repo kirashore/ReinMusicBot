@@ -1,0 +1,19 @@
+{
+    "title": "Rein Music",
+    "description": "**Rein Music** is a free music bot that prioritizes **Quality** for the streaming experience on every voice channel.\n\n**Prefix Usage:**\n`r!play (URL)` or `(Music Title)`, `r!join` or `r!join (URL) / (Music Title)`, `r!leave`, `r!autoplay`.\n\nThe application is still under development. For bug reporting or suggestions contact <@&1374411351660957818> if in the **Kirashore** Discord Server",
+    "color": 12321023,
+    "author": {
+        "name": "Rein Music Bot",
+        "icon_url": "https://drive.google.com/uc?id=1tyUl_vaV1KHqxC1aXurDedmpH-JHsFBE"
+    },
+    "thumbnail": {
+        "url": "https://drive.google.com/uc?id=1tuX4d61p_TC2DzLK1QnaMxPgMu0qF3bt"
+    },
+    "image": {
+        "url": "https://drive.google.com/uc?id=1ttZoP44xpkNt0LqW6uzVe_iyuZDVmEsc"
+    },
+    "footer": {
+        "text": "Development by @kirashore since May 2025. 23",
+        "icon_url": "https://drive.google.com/uc?id=1jik28uuy2m54_BYM2x31Dw0OmdFTEVGX"
+    }
+}
